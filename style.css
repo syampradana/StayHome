@@ -67,3 +67,21 @@
     border-radius: 30px;
     padding: 10px 20px;
 }
+
+.hero-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.content-1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.content-web{
+    margin-top: 100px;
+}
